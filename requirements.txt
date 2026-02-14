@@ -1,0 +1,7 @@
+streamlit
+youtube-transcript-api
+google-api-python-client
+openai
+numpy
+scikit-learn
+sentence-transformers
